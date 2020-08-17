@@ -5,7 +5,7 @@
 ### TOPICS COVERED
 <ul>
     <li> Basics -- Completed </li>
-    <li> Input/Output -- Incomplete </li>
+    <li> Input/Output -- Completed </li>
     <li> Data Type -- Incomplete </li>
     <li> Variable -- Incomplete </li>
     <li> Operator -- Incomplete </li>
